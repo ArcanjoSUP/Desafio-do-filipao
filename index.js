@@ -1,6 +1,5 @@
 //Glória a Deus e a Jesus Cristo
 console.log("oi")
-//oi
 
 let nomeDoHeroi = "Arcanjo";
 let xpDoHeroi = 5000; 
